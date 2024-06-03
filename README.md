@@ -1,6 +1,6 @@
-# Advanced Learner Data Analysis in JavaScript
+Data Analysis in JavaScript
 
-This repository contains a JavaScript function, `getLearnerData`, that processes and analyzes learner data from a course. The function uses advanced JavaScript features such as the `Map` object and the `Array.from` method, and includes extensive data validation and error handling.
+This repository contains a JavaScript function, `getLearnerData`, that processes and analyzes learner data from a course. The function uses JavaScript features such as the `Map` object and the `Array.from` method, and includes extensive data validation and error handling.
 
 ## Functionality
 
